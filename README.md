@@ -1,7 +1,6 @@
 ![Thumbnail-100](assets/readme/thumbnail.jpg)
 
 ## Demo
-
 <div align="center"><a href="https://tiket.app.tik.co/">Visit TIKAJ HELPDESK live demo</a></div>
 
 ### Credentials for logging in
